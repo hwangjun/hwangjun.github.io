@@ -18,7 +18,7 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 locale: "en"
 title: "H.J Blog"
 title_separator: "-"
-name: "hwangjun"
+name: "1 day 1 commit"
 description: "1 day 1 commit."
 url: "https://subinium.github.io"
 logo: "/assets/images/logo3.png"
@@ -91,19 +91,19 @@ social:
   type: # Person or Organization (defaults to Person)
   name: # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://www.facebook.com/subinium"
+    - "https://www.facebook.com/hwangjun"
 
 # Analytics
 analytics:
   provider: "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id: "UA-121853166-1"
+    tracking_id: "UA-155387702-1"
     anonymize_ip: # true, false (default)
 
 # Site Author
 author:
   name: "Hwang Jun"
-  avatar: "/assets/images/mac_asb.jpg"
+  avatar: "/assets/images/me.jpg"
   bio: "I'm HwangJun."
   location: "Seoul,Korea"
   email: "hwangjun9349@gmail.com"
@@ -121,7 +121,7 @@ author:
   keybase:
   instagram:
   lastfm:
-  linkedin: "subin-an-841975110"
+  linkedin: 
   pinterest:
   soundcloud:
   stackoverflow: # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
@@ -131,7 +131,7 @@ author:
   vine:
   weibo:
   xing:
-  youtube: "https://www.youtube.com/channel/UC8cvg1_oB-IDtWT2bfBC2OQ"
+  youtube:
 
 # Reading Files
 include:
