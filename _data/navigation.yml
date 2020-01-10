@@ -2,17 +2,17 @@
 main:
   - title: "About"
     url: /about/
-  - title: "A.I. Lookbook"
-    url: "https://www.facebook.com/AI.Lookbook"
-  - title: "Algoguide"
-    url: "https://www.facebook.com/algoguide"
-  - title: "Desinoper"
-    url: "https://www.facebook.com/shovelingdesignoper"
+#  - title: "A.I. Lookbook"
+#    url: "https://www.facebook.com/AI.Lookbook"
+#  - title: "Algoguide"
+#    url: "https://www.facebook.com/algoguide"
+#  - title: "Desinoper"
+#    url: "https://www.facebook.com/shovelingdesignoper"
 
 sidebar-about:
   - title: "Who am I"
     children:
-      - title: "Awesome Nerd, Subinium"
+      - title: "1 day 1 Ccommit., HwangJun"
         url: /about/
 
 PE:

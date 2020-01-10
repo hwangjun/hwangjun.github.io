@@ -16,22 +16,22 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale: "en"
-title: "Subinium의 코딩일지"
+title: "H.J Blog"
 title_separator: "-"
-name: "수비니움의 코딩일지"
-description: "모두를 위한 개발자를 목표로 하는 Subinium의 블로그입니다."
-url: "https://subinium.github.io"
+name: "H.J Blog"
+description: "1 day 1 commit."
+url: "https://hwangjun.github.io"
 logo: "/assets/images/logo3.png"
-masthead_title: "Hello Subinium!"
+masthead_title: "Hello H.J!"
 baseurl: # the subpath of your site, e.g. "/blog"
-repository: "subinium/subinium.github.io"
+repository: "hwangjun/hwangjun.github.io"
 teaser: "/assets/images/sbnu.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute: 200
 comments:
   provider: "disqus"
   disqus:
-    shortname: www-subinium-github-io
+    shortname: hwangjun
   discourse:
     server: # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -81,7 +81,7 @@ naver_site_verification:
 twitter:
   sername:
 facebook:
-  username: &facebook "SubinAn"
+  username: &facebook "hwangjun"
   app_id:
   publisher:
 og_image: "/assets/images/mac_asb.jpg"
@@ -91,37 +91,37 @@ social:
   type: # Person or Organization (defaults to Person)
   name: # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://www.facebook.com/subinium"
+    - "https://www.facebook.com/hwangjun"
 
 # Analytics
 analytics:
   provider: "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id: "UA-121853166-1"
+    tracking_id: "UA-155387702-1"
     anonymize_ip: # true, false (default)
 
 # Site Author
 author:
-  name: "An Subin"
-  avatar: "/assets/images/mac_asb.jpg"
-  bio: "Yeah, I am Subinium."
+  name: "Hwang Jun"
+  avatar: "/assets/images/me.jpg"
+  bio: "I'm HwangJun."
   location: "Seoul,Korea"
-  email: "me@ansubin.com"
+  email: "hwangjun9349@gmail.com"
   uri:
   home: "#" # null (default), "absolute or relative url to link to author home"
   bitbucket:
   codepen:
   dribbble:
   flickr:
-  facebook: "subinium"
+  facebook: "hwangjun"
   foursquare:
-  github: "subinium"
+  github: "hwangjun"
   gitlab:
   google_plus:
   keybase:
   instagram:
   lastfm:
-  linkedin: "subin-an-841975110"
+  linkedin: 
   pinterest:
   soundcloud:
   stackoverflow: # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
@@ -131,7 +131,7 @@ author:
   vine:
   weibo:
   xing:
-  youtube: "https://www.youtube.com/channel/UC8cvg1_oB-IDtWT2bfBC2OQ"
+  youtube:
 
 # Reading Files
 include:
