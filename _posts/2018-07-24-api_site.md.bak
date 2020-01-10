@@ -17,6 +17,8 @@ header:
 
 CP 사이트들의 레이팅을 자동적으로 적용해보자!
 
+{% include .html %}
+
 ## 갑자기 API?
 
 [Bucket list](https://subinium.github.io/about/bucketlist)를 쓰려고 하는데 목표치와 비교하게 내 데이터를 실시간으로 불러오는 방법에 대해서 고민해보았다.
