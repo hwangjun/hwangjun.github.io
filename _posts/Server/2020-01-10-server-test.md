@@ -1,1 +1,11 @@
-
+---
+title : "1 Server Post Page : Test"
+category :
+  - server
+tag :
+  - server
+sidebar_main : true
+header:
+  teaser : https://images.unsplash.com/photo-1554757388-29a2a86ef02f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60
+  overlay_image : https://images.unsplash.com/photo-1554757388-29a2a86ef02f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60
+---
