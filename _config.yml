@@ -81,7 +81,7 @@ naver_site_verification:
 twitter:
   sername:
 facebook:
-  username: &facebook "hwangjun"
+  username: &facebook "junko61"
   app_id:
   publisher:
 og_image: "/assets/images/mac_asb.jpg"
@@ -91,7 +91,7 @@ social:
   type: # Person or Organization (defaults to Person)
   name: # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://www.facebook.com/hwangjun"
+    - "https://www.facebook.com/junko61"
 
 # Analytics
 analytics:
