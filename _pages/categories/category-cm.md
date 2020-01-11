@@ -1,5 +1,5 @@
 ---
-title: "Post about cm"
+title: "Post about cm(형상관리)"
 layout: archive
 permalink: /categories/cm
 author_profile: true
