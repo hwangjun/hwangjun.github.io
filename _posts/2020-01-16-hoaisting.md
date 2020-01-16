@@ -7,8 +7,8 @@ tag :
   - javaScript
 sidebar_main : true
 header:
-  teaser : /assets/images/category/devel-javascript.jpg
-  overlay_image : /assets/images/category/devel-javascript.jpg
+  teaser : /assets/images/category/devel-js.jpg
+  overlay_image : /assets/images/category/devel-js.jpg
 ---
 
 ## 자바스크립트 호이스팅(Hoisting)
