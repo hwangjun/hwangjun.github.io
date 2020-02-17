@@ -28,17 +28,12 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://hwangjun.github.io/categories/subinium</loc>
-  <lastmod>2018-07-20T19:39:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
   <loc>https://hwangjun.github.io/categories/blog</loc>
   <lastmod>2018-07-20T19:39:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://hwangjun.github.io/categories/design</loc>
+  <loc>https://hwangjun.github.io/categories/book</loc>
   <lastmod>2018-07-20T19:39:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
@@ -48,25 +43,31 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://hwangjun.github.io/development/virtualenv/</loc>
+  <loc>https://hwangjun.github.io/categories/server</loc>
   <lastmod>2018-07-20T19:39:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://hwangjun.github.io/blog/design/Logo-Project(2)/</loc>
+  <loc>https://hwangjun.github.io/categories/algorithm</loc>
   <lastmod>2018-07-20T19:39:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://hwangjun.github.io/blog/design/Logo-Project(1)/</loc>
+  <loc>https://hwangjun.github.io/categories/edu</loc>
   <lastmod>2018-07-20T19:39:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://hwangjun.github.io/hwangjun/hwangjun's-coding-diary/</loc>
+  <loc>https://hwangjun.github.io/categories/jenkins</loc>
   <lastmod>2018-07-20T19:39:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
+<url>
+  <loc>https://hwangjun.github.io/categories/cm</loc>
+  <lastmod>2018-07-20T19:39:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
 
 
 </urlset>
