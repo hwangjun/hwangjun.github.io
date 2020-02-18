@@ -25,7 +25,7 @@ logo: '/assets/images/logo3.png'
 masthead_title: 'Hello H.J!'
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: 'hwangjun/hwangjun.github.io'
-teaser: '/assets/images/sbnu.png'
+teaser: '/assets/images/logo34.png'
 # breadcrumbs            : false # true, false (default)
 words_per_minute: 200
 comments:
