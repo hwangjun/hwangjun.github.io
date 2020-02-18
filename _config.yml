@@ -11,25 +11,25 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+remote_theme: 'mmistakes/minimal-mistakes'
+minimal_mistakes_skin: 'default' # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale: "en"
-title: "H.J Blog"
-title_separator: "-"
-name: "H.J Blog"
-description: "1 day 1 commit."
-url: "https://hwangjun.github.io"
-logo: "/assets/images/logo3.png"
-masthead_title: "Hello H.J!"
+locale: 'en'
+title: 'H.J Blog'
+title_separator: '-'
+name: 'H.J Blog'
+description: '1 day 1 commit.'
+url: 'https://hwangjun.github.io'
+logo: '/assets/images/logo3.png'
+masthead_title: 'Hello H.J!'
 baseurl: # the subpath of your site, e.g. "/blog"
-repository: "hwangjun/hwangjun.github.io"
-teaser: "/assets/images/sbnu.png"
+repository: 'hwangjun/hwangjun.github.io'
+teaser: '/assets/images/sbnu.png'
 # breadcrumbs            : false # true, false (default)
 words_per_minute: 200
 comments:
-  provider: "disqus"
+  provider: 'disqus'
   disqus:
     shortname: hwangjun
   discourse:
@@ -52,9 +52,9 @@ staticman:
     email: # "md5"
   generatedFields:
     date:
-      type: "date"
+      type: 'date'
       options:
-        format: "iso8601" # (default), "timestamp-seconds", "timestamp-milliseconds"
+        format: 'iso8601' # (default), "timestamp-seconds", "timestamp-milliseconds"
 reCaptcha:
   siteKey:
   secret:
@@ -81,47 +81,47 @@ naver_site_verification:
 twitter:
   sername:
 facebook:
-  username: &facebook "junko61"
+  username: &facebook 'junko61'
   app_id:
   publisher:
-og_image: "/assets/images/mac_asb.jpg"
+og_image: '/assets/images/mac_asb.jpg'
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type: # Person or Organization (defaults to Person)
   name: # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://www.facebook.com/junko61"
+    - 'https://www.facebook.com/junko61'
 
 # Analytics
 analytics:
-  provider: "google" # false (default), "google", "google-universal", "custom"
+  provider: 'google' # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id: "UA-155387702-1"
+    tracking_id: 'UA-155387702-1'
     anonymize_ip: # true, false (default)
 
 # Site Author
 author:
-  name: "Hwang Jun"
-  avatar: "/assets/images/me.jpg"
+  name: 'Hwang Jun'
+  avatar: '/assets/images/me.jpg'
   bio: "I'm Web Developer."
-  location: "Seoul,Korea"
-  email: "hwangjun9349@gmail.com"
+  location: 'Seoul,Korea'
+  email: 'hwangjun9349@gmail.com'
   uri:
-  home: "#" # null (default), "absolute or relative url to link to author home"
+  home: '#' # null (default), "absolute or relative url to link to author home"
   bitbucket:
   codepen:
   dribbble:
   flickr:
-  facebook: "junko61"
+  facebook: 'junko61'
   foursquare:
-  github: "hwangjun"
+  github: 'hwangjun'
   gitlab:
   google_plus:
   keybase:
   instagram:
   lastfm:
-  linkedin: 
+  linkedin:
   pinterest:
   soundcloud:
   stackoverflow: # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
@@ -138,8 +138,8 @@ include:
   - .htaccess
   - _pages
 exclude:
-  - "*.sublime-project"
-  - "*.sublime-workspace"
+  - '*.sublime-project'
+  - '*.sublime-workspace'
   - vendora
   - .asset-cache
   - .bundle
@@ -166,8 +166,8 @@ exclude:
 keep_files:
   - .git
   - .svn
-encoding: "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+encoding: 'utf-8'
+markdown_ext: 'markdown,mkdown,mkdn,mkd,md'
 
 # Conversion
 markdown: kramdown
@@ -254,7 +254,7 @@ defaults:
   # _posts
 
   - scope:
-      path: ""
+      path: ''
       type: posts
     values:
       layout: single
@@ -268,7 +268,7 @@ defaults:
   # _posts
 
   - scope:
-      path: ""
+      path: ''
       type: pages
     values:
       comments: true
